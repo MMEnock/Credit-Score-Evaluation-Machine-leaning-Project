@@ -24,8 +24,8 @@ This project looks at how banks and other Financial Institutions decide on who d
   
   You can install the necessary Python libraries using pip:
   ```bash
-pip install Numpy
-pip install pandas
-pip install jupyter notebook 
-pip install numpy scipy scikit-learn
-pip install linear_model
+  pip install Numpy
+  pip install pandas
+  pip install jupyter notebook 
+  pip install numpy scipy scikit-learn
+  pip install linear_model
